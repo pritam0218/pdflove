@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-image: url(/imgToPdf-main/img/pexels-eberhard-grossgasteiger-691668.jpg);
+  background-image: url(/img/pexels-eberhard-grossgasteiger-691668.jpg);
   background-size: cover; 
 }
 .nav{
